@@ -17,42 +17,73 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+I'm Yucheng Xing (邢宇程), a PhD student at the National University of Singapore (NUS), advised by [Prof. Mengling Feng](https://www.mornin-feng.com/). My research focuses on information fusion, uncertainty quantification, survival analysis, and computational pathology.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+I am always open to collaborations. If you share similar interests, please feel free to reach out.
 
+<a href='https://scholar.google.com/citations?user=uC7NT-IAAAAJ'>My Google Scholar citations <strong><span id='total_cit'>0+</span></strong></a> (<a href='https://scholar.google.com/citations?user=uC7NT-IAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
-# 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+<!-- 提示：引用数徽章要在你把 _config.yml 的 repository 改成自己的仓库、且 GitHub Actions 跑过一次后才显示真实数字。 -->
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+‡: Co-First Authors
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2026</div><img src='images/dpsurv.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[DPsurv: Dual-Prototype Evidential Fusion for Uncertainty-Aware and Interpretable Whole-Slide Image Survival Prediction](https://arxiv.org/abs/2510.00053)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+**Yucheng Xing**, Ling Huang, Jingying Ma, Ruping Hong, Jiangdong Qiu, Pei Liu, Kai He, Huazhu Fu, Mengling Feng
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+[**arXiv**](https://arxiv.org/abs/2510.00053)
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026</div><img src='images/codebrain.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[CodeBrain: Bridging Decoupled Tokenizer and Multi-Scale Architecture for EEG Foundation Model](https://arxiv.org/abs/2506.09110)
+
+Jingying Ma‡, Feng Wu‡, Qika Lin, **Yucheng Xing**, Chenyu Liu, Ziyu Jia, Mengling Feng
+
+[**arXiv**](https://arxiv.org/abs/2506.09110) [![](https://img.shields.io/badge/CodeBrain-blue?logo=github)](https://github.com/jingyingma01/CodeBrain)
+</div>
+</div>
+
+- Preprint [SCOPE: Structured Prototype-Guided Adaptation for EEG Foundation Models with Limited Labels](https://arxiv.org/abs/2602.17251)  
+Jingying Ma‡, Feng Wu‡, **Yucheng Xing**, Qika Lin, Tianyu Liu, Chenyu Liu, Ziyu Jia, Mengling Feng
+
+<!-- TODO: 后续论文照上面格式加。带缩略图的用 paper-box 块；纯列表的用 "- 会议/期刊 [标题](链接)" 一行。作者列表里把自己加粗 **Yucheng Xing**。 -->
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+*To be added.*
+<!-- TODO 示例:
+- *2024.08* President's Graduate Fellowship, National University of Singapore
+-->
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+*To be added.*
+<!-- TODO 示例:
+- *2024.08 - now*, Ph.D., <学院/专业>, National University of Singapore, Singapore
+- *2020.09 - 2024.06*, B.E., <专业>, <本科学校>, China
+-->
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+# 💻 Experience
+*To be added.*
+<!-- TODO 示例:
+- *2023.xx - 2024.xx*, Research Assistant, <单位>, supervised by [Prof. xxx](链接).
+-->
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+# 💬 Academic Services
+*To be added.*
+<!-- TODO 示例:
+- Conference Reviewer: ICML, NeurIPS
+- Journal Reviewer: xxx
+-->
+
+# 🎓 Teaching
+*To be added.*
+<!-- TODO 示例:
+- *2026.01 - 2026.05*, Teaching Assistant, <课程代码 课程名>, National University of Singapore
+-->
