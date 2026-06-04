@@ -18,6 +18,17 @@ I am always open to collaborations. If you share similar interests, please feel 
 
 \*: Equal Contribution
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2026</div><img src='images/dpsurv.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[DPsurv: Dual-Prototype Evidential Fusion for Uncertainty-Aware and Interpretable Whole-Slide Image Survival Prediction](https://arxiv.org/abs/2510.00053)
+
+**Yucheng Xing**, Ling Huang, Jingying Ma, Ruping Hong, Jiangdong Qiu, Pei Liu, Kai He, Huazhu Fu, Mengling Feng
+
+[**arXiv**](https://arxiv.org/abs/2510.00053)
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TFS 2025</div><img src='images/esurvfusion.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -28,8 +39,6 @@ Ling Huang\*, **Yucheng Xing**\*, Qika Lin, Jia Duan, Stéphane Ruan, Mengling F
 **IEEE Transactions on Fuzzy Systems**, 2025
 </div>
 </div>
-
-- **ICML 2026** [DPsurv: Dual-Prototype Evidential Fusion for Uncertainty-Aware and Interpretable Whole-Slide Image Survival Prediction](https://arxiv.org/abs/2510.00053), **Yucheng Xing**, Ling Huang, Jingying Ma, Ruping Hong, Jiangdong Qiu, Pei Liu, Kai He, Huazhu Fu, Mengling Feng
 - **ICLR 2026** [CodeBrain: Bridging Decoupled Tokenizer and Multi-Scale Architecture for EEG Foundation Model](https://arxiv.org/abs/2506.09110), Jingying Ma\*, Feng Wu\*, Qika Lin, **Yucheng Xing**, Chenyu Liu, Ziyu Jia, Mengling Feng
 - **Medical Image Analysis** [A Review of Uncertainty Quantification in Medical Image Analysis: Probabilistic and Non-Probabilistic Methods](https://scholar.google.com/scholar?cluster=12345), Ling Huang, Stéphane Ruan, **Yucheng Xing**, Mengling Feng, 2024
 - **International Journal of Approximate Reasoning** [Evidential Time-to-Event Prediction with Calibrated Uncertainty Quantification](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=uC7NT-IAAAAJ&citation_for_view=uC7NT-IAAAAJ:d1gkVwhDpl0C), Ling Huang, **Yucheng Xing**, Swapnil Mishra, Thierry Denœux, Mengling Feng, 2025
