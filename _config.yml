@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Lorem ipsum"
-description              : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
-repository               : "RayeRen/acad-homepage.github.io"
+title                    : "Yucheng Xing"
+description              : "Yucheng Xing (邢宇程) - PhD Student at NUS. Research on information fusion, uncertainty quantification, survival analysis, and computational pathology."
+repository               : "YuchengXing99/YuchengXing99.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -21,14 +21,14 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Lorem ipsum"
-  avatar           : "images/android-chrome-512x512.png"
-  bio              : "Lorem ipsum College"
-  location         : "Beijing, China"
+  name             : "Yucheng Xing"
+  avatar           : "images/avatar.png"  # TODO: 把你的头像放到 images/avatar.png
+  bio              : "PhD Student @ NUS"
+  location         : "Singapore"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
-  email            : "Lorem@ipsum.com"
+  googlescholar    : "https://scholar.google.com/citations?user=uC7NT-IAAAAJ"
+  email            : "your-email@u.nus.edu"  # TODO: 填你的邮箱
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : # e.g., "github username"
+  github           : # TODO: 填你的 github 用户名
   google_plus      :
   keybase          :
   instagram        :
