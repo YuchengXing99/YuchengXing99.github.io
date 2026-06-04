@@ -8,20 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-{% if site.google_scholar_stats_use_cdn %}
-{% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
-{% else %}
-{% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
-{% endif %}
-{% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
-
 <span class='anchor' id='about-me'></span>
 
 I'm Yucheng Xing (邢宇程), a PhD student at the National University of Singapore (NUS), advised by [Prof. Mengling Feng](https://www.mornin-feng.com/). My research focuses on information fusion, uncertainty quantification, survival analysis, and computational pathology.
 
 I am always open to collaborations. If you share similar interests, please feel free to reach out.
-
-<a href='https://scholar.google.com/citations?user=uC7NT-IAAAAJ'>My Google Scholar citations <strong><span id='total_cit'>0+</span></strong></a> (<a href='https://scholar.google.com/citations?user=uC7NT-IAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
 # 📝 Publications 
 
@@ -38,17 +29,7 @@ I am always open to collaborations. If you share similar interests, please feel 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026</div><img src='images/codebrain.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[CodeBrain: Bridging Decoupled Tokenizer and Multi-Scale Architecture for EEG Foundation Model](https://arxiv.org/abs/2506.09110)
-
-Jingying Ma\*, Feng Wu\*, Qika Lin, **Yucheng Xing**, Chenyu Liu, Ziyu Jia, Mengling Feng
-
-[**arXiv**](https://arxiv.org/abs/2506.09110) [![](https://img.shields.io/badge/CodeBrain-blue?logo=github)](https://github.com/jingyingma01/CodeBrain)
-</div>
-</div>
-
+- **ICLR 2026** [CodeBrain: Bridging Decoupled Tokenizer and Multi-Scale Architecture for EEG Foundation Model](https://arxiv.org/abs/2506.09110), Jingying Ma\*, Feng Wu\*, Qika Lin, **Yucheng Xing**, Chenyu Liu, Ziyu Jia, Mengling Feng
 - **Medical Image Analysis** [A Review of Uncertainty Quantification in Medical Image Analysis: Probabilistic and Non-Probabilistic Methods](https://scholar.google.com/scholar?cluster=12345), Ling Huang, Stéphane Ruan, **Yucheng Xing**, Mengling Feng, 2024
 - **IEEE Transactions on Fuzzy Systems** [EsurvFusion: An Evidential Multimodal Survival Fusion Model Based on Epistemic Random Fuzzy Sets](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=uC7NT-IAAAAJ&citation_for_view=uC7NT-IAAAAJ:u5HHmVD_uO8C), Ling Huang\*, **Yucheng Xing**\*, Qika Lin, Jia Duan, Stéphane Ruan, Mengling Feng, 2025
 - **International Journal of Approximate Reasoning** [Evidential Time-to-Event Prediction with Calibrated Uncertainty Quantification](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=uC7NT-IAAAAJ&citation_for_view=uC7NT-IAAAAJ:d1gkVwhDpl0C), Ling Huang, **Yucheng Xing**, Swapnil Mishra, Thierry Denœux, Mengling Feng, 2025
