@@ -32,19 +32,19 @@ I am always open to collaborations. If you share similar interests, please feel 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TFS 2025</div><img src='images/esurvfusion.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[EsurvFusion: An Evidential Multimodal Survival Fusion Model Based on Epistemic Random Fuzzy Sets](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=uC7NT-IAAAAJ&citation_for_view=uC7NT-IAAAAJ:u5HHmVD_uO8C)
+[EsurvFusion: An Evidential Multimodal Survival Fusion Model Based on Epistemic Random Fuzzy Sets](https://arxiv.org/abs/2412.01215)
 
 Ling Huang\*, **Yucheng Xing**\*, Qika Lin, Jia Duan, Stéphane Ruan, Mengling Feng
 
-**IEEE Transactions on Fuzzy Systems**, 2025
+**IEEE Transactions on Fuzzy Systems**, 2025 \| [**arXiv**](https://arxiv.org/abs/2412.01215) \| [**IEEE Xplore**](https://ieeexplore.ieee.org/abstract/document/11214415/)
 </div>
 </div>
 - **ICLR 2026** [CodeBrain: Bridging Decoupled Tokenizer and Multi-Scale Architecture for EEG Foundation Model](https://arxiv.org/abs/2506.09110), Jingying Ma\*, Feng Wu\*, Qika Lin, **Yucheng Xing**, Chenyu Liu, Ziyu Jia, Mengling Feng
-- **Medical Image Analysis** [A Review of Uncertainty Quantification in Medical Image Analysis: Probabilistic and Non-Probabilistic Methods](https://scholar.google.com/scholar?cluster=12345), Ling Huang, Stéphane Ruan, **Yucheng Xing**, Mengling Feng, 2024
-- **International Journal of Approximate Reasoning** [Evidential Time-to-Event Prediction with Calibrated Uncertainty Quantification](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=uC7NT-IAAAAJ&citation_for_view=uC7NT-IAAAAJ:d1gkVwhDpl0C), Ling Huang, **Yucheng Xing**, Swapnil Mishra, Thierry Denœux, Mengling Feng, 2025
-- **BELIEF 2024** [An Evidential Time-to-Event Prediction Model Based on Gaussian Random Fuzzy Numbers](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=uC7NT-IAAAAJ&citation_for_view=uC7NT-IAAAAJ:u-x6o8ySG0sC), Ling Huang, **Yucheng Xing**, Thierry Denœux, Mengling Feng, 2024
-- **CVPR 2026** [Sparse Task Vector Mixup with Hypernetworks for Efficient Knowledge Transfer in Whole-Slide Image Prognosis](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=uC7NT-IAAAAJ&citation_for_view=uC7NT-IAAAAJ:Tyk-4Ss8FVUC), Pei Liu, Xinhao Zeng, Tianlin Ma, **Yucheng Xing**, Xuehui Ren, Yang Liu, 2026
-- Preprint [Bridging the Modality Bottleneck in Pathology MIL through Virtual Molecular Staining](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=uC7NT-IAAAAJ&citation_for_view=uC7NT-IAAAAJ:UeHWp8X0CEIC), **Yucheng Xing**, Pei Liu, Jingying Ma, Ruping Hong, Jiangdong Qiu, Tianyu Liu, Kai He, Ling Huang, Mengling Feng, 2026
+- **Medical Image Analysis** [A Review of Uncertainty Quantification in Medical Image Analysis: Probabilistic and Non-Probabilistic Methods](https://www.sciencedirect.com/science/article/pii/S1361841524001488), Ling Huang, Stéphane Ruan, **Yucheng Xing**, Mengling Feng, 2024
+- **International Journal of Approximate Reasoning** [Evidential Time-to-Event Prediction with Calibrated Uncertainty Quantification](https://www.sciencedirect.com/science/article/pii/S0888613X25000441), Ling Huang, **Yucheng Xing**, Swapnil Mishra, Thierry Denœux, Mengling Feng, 2025
+- **BELIEF 2024** [An Evidential Time-to-Event Prediction Model Based on Gaussian Random Fuzzy Numbers](https://link.springer.com/chapter/10.1007/978-3-031-67977-3_6), Ling Huang, **Yucheng Xing**, Thierry Denœux, Mengling Feng, 2024
+- **CVPR 2026** [Sparse Task Vector Mixup with Hypernetworks for Efficient Knowledge Transfer in Whole-Slide Image Prognosis](https://openaccess.thecvf.com/content/CVPR2026/html/Liu_Sparse_Task_Vector_Mixup_with_Hypernetworks_for_Efficient_Knowledge_Transfer_CVPR_2026_paper.html), Pei Liu, Xinhao Zeng, Tianlin Ma, **Yucheng Xing**, Xuehui Ren, Yang Liu, 2026
+- Preprint [Bridging the Modality Bottleneck in Pathology MIL through Virtual Molecular Staining](https://arxiv.org/abs/2605.16392), **Yucheng Xing**, Pei Liu, Jingying Ma, Ruping Hong, Jiangdong Qiu, Tianyu Liu, Kai He, Ling Huang, Mengling Feng, 2026
 - Preprint [SCOPE: Structured Prototype-Guided Adaptation for EEG Foundation Models with Limited Labels](https://arxiv.org/abs/2602.17251), Jingying Ma\*, Feng Wu\*, **Yucheng Xing**, Qika Lin, Tianyu Liu, Chenyu Liu, Ziyu Jia, Mengling Feng, 2026
 
 # 🎖 Honors and Awards
