@@ -22,14 +22,14 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Yucheng Xing"
-  avatar           : "images/avatar.png"  # TODO: 把你的头像放到 images/avatar.png
+  avatar           : "images/avatar.png"
   bio              : "PhD Student @ NUS"
   location         : "Singapore"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=uC7NT-IAAAAJ"
-  email            : "your-email@u.nus.edu"  # TODO: 填你的邮箱
-  researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
+  email            : "xingyucheng@u.nus.edu"
+  researchgate     :
   uri              :
   bitbucket        :
   codepen          :
@@ -37,15 +37,15 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : # TODO: 填你的 github 用户名
+  github           : "YuchengXing99"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : # e.g., "linkedin username"
+  linkedin         : "xingyucheng"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid            : # e.g., "https://orcid.org/xxxx"
+  orcid            : "https://orcid.org/0009-0006-5449-4386"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username

@@ -23,11 +23,9 @@ I am always open to collaborations. If you share similar interests, please feel 
 
 <a href='https://scholar.google.com/citations?user=uC7NT-IAAAAJ'>My Google Scholar citations <strong><span id='total_cit'>0+</span></strong></a> (<a href='https://scholar.google.com/citations?user=uC7NT-IAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
-<!-- 提示：引用数徽章要在你把 _config.yml 的 repository 改成自己的仓库、且 GitHub Actions 跑过一次后才显示真实数字。 -->
-
 # 📝 Publications 
 
-‡: Co-First Authors
+\*: Equal Contribution
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2026</div><img src='images/dpsurv.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -45,45 +43,38 @@ I am always open to collaborations. If you share similar interests, please feel 
 
 [CodeBrain: Bridging Decoupled Tokenizer and Multi-Scale Architecture for EEG Foundation Model](https://arxiv.org/abs/2506.09110)
 
-Jingying Ma‡, Feng Wu‡, Qika Lin, **Yucheng Xing**, Chenyu Liu, Ziyu Jia, Mengling Feng
+Jingying Ma\*, Feng Wu\*, Qika Lin, **Yucheng Xing**, Chenyu Liu, Ziyu Jia, Mengling Feng
 
 [**arXiv**](https://arxiv.org/abs/2506.09110) [![](https://img.shields.io/badge/CodeBrain-blue?logo=github)](https://github.com/jingyingma01/CodeBrain)
 </div>
 </div>
 
-- Preprint [SCOPE: Structured Prototype-Guided Adaptation for EEG Foundation Models with Limited Labels](https://arxiv.org/abs/2602.17251)  
-Jingying Ma‡, Feng Wu‡, **Yucheng Xing**, Qika Lin, Tianyu Liu, Chenyu Liu, Ziyu Jia, Mengling Feng
-
-<!-- TODO: 后续论文照上面格式加。带缩略图的用 paper-box 块；纯列表的用 "- 会议/期刊 [标题](链接)" 一行。作者列表里把自己加粗 **Yucheng Xing**。 -->
+- **Medical Image Analysis** [A Review of Uncertainty Quantification in Medical Image Analysis: Probabilistic and Non-Probabilistic Methods](https://scholar.google.com/scholar?cluster=12345), Ling Huang, Stéphane Ruan, **Yucheng Xing**, Mengling Feng, 2024
+- **IEEE Transactions on Fuzzy Systems** [EsurvFusion: An Evidential Multimodal Survival Fusion Model Based on Epistemic Random Fuzzy Sets](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=uC7NT-IAAAAJ&citation_for_view=uC7NT-IAAAAJ:u5HHmVD_uO8C), Ling Huang\*, **Yucheng Xing**\*, Qika Lin, Jia Duan, Stéphane Ruan, Mengling Feng, 2025
+- **International Journal of Approximate Reasoning** [Evidential Time-to-Event Prediction with Calibrated Uncertainty Quantification](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=uC7NT-IAAAAJ&citation_for_view=uC7NT-IAAAAJ:d1gkVwhDpl0C), Ling Huang, **Yucheng Xing**, Swapnil Mishra, Thierry Denœux, Mengling Feng, 2025
+- **BELIEF 2024** [An Evidential Time-to-Event Prediction Model Based on Gaussian Random Fuzzy Numbers](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=uC7NT-IAAAAJ&citation_for_view=uC7NT-IAAAAJ:u-x6o8ySG0sC), Ling Huang, **Yucheng Xing**, Thierry Denœux, Mengling Feng, 2024
+- **CVPR 2026** [Sparse Task Vector Mixup with Hypernetworks for Efficient Knowledge Transfer in Whole-Slide Image Prognosis](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=uC7NT-IAAAAJ&citation_for_view=uC7NT-IAAAAJ:Tyk-4Ss8FVUC), Pei Liu, Xinhao Zeng, Tianlin Ma, **Yucheng Xing**, Xuehui Ren, Yang Liu, 2026
+- Preprint [Bridging the Modality Bottleneck in Pathology MIL through Virtual Molecular Staining](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=uC7NT-IAAAAJ&citation_for_view=uC7NT-IAAAAJ:UeHWp8X0CEIC), **Yucheng Xing**, Pei Liu, Jingying Ma, Ruping Hong, Jiangdong Qiu, Tianyu Liu, Kai He, Ling Huang, Mengling Feng, 2026
+- Preprint [SCOPE: Structured Prototype-Guided Adaptation for EEG Foundation Models with Limited Labels](https://arxiv.org/abs/2602.17251), Jingying Ma\*, Feng Wu\*, **Yucheng Xing**, Qika Lin, Tianyu Liu, Chenyu Liu, Ziyu Jia, Mengling Feng, 2026
 
 # 🎖 Honors and Awards
-*To be added.*
-<!-- TODO 示例:
-- *2024.08* President's Graduate Fellowship, National University of Singapore
--->
+- *2022* SG Healthcare AI Datathon, Second Runner-up
+- Beihang University Excellent Scholarship, Second Prize (Academic Year 2020-2021)
+- Beihang University Excellent Scholarship, Second Prize (Academic Year 2019-2020)
+- The 31st Mathematics Competition for College Students in Beijing, Third Prize
+- The 12th National Mathematics Competition for College Students, Third Prize
 
 # 📖 Educations
-*To be added.*
-<!-- TODO 示例:
-- *2024.08 - now*, Ph.D., <学院/专业>, National University of Singapore, Singapore
-- *2020.09 - 2024.06*, B.E., <专业>, <本科学校>, China
--->
+- *2024.08 - now*, Ph.D., Saw Swee Hock School of Public Health, National University of Singapore, Singapore
+- *2022.08 - 2024.01*, M.Sc., Statistics, National University of Singapore, Singapore
+- *2019.09 - 2022.06*, B.S. (Minor), Mathematics and Applied Mathematics, Beihang University, China
+- *2018.09 - 2022.06*, B.S., Economics Statistics, School of Economics and Management, Beihang University, China
 
 # 💻 Experience
-*To be added.*
-<!-- TODO 示例:
-- *2023.xx - 2024.xx*, Research Assistant, <单位>, supervised by [Prof. xxx](链接).
--->
+- *2021.07 - 2021.10*, Data Analyst Intern, Beijing ByteDance Technology Co., Ltd
+- *2021.01 - 2021.02*, Audit Department Intern, KPMG
+- *2020.10 - 2020.12*, Quantitative Financial Analyst Intern, SAS Software China
 
 # 💬 Academic Services
-*To be added.*
-<!-- TODO 示例:
-- Conference Reviewer: ICML, NeurIPS
-- Journal Reviewer: xxx
--->
-
-# 🎓 Teaching
-*To be added.*
-<!-- TODO 示例:
-- *2026.01 - 2026.05*, Teaching Assistant, <课程代码 课程名>, National University of Singapore
--->
+- Conference Reviewer: ICML, NeurIPS, MICCAI
+- Journal Reviewer: IEEE Transactions on Affective Computing, ACM Transactions on Intelligent Systems and Technology (TIST)
