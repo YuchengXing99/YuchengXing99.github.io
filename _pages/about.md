@@ -49,8 +49,8 @@ Ling Huang\*, **Yucheng Xing**\*, Qika Lin, Jia Duan, Stéphane Ruan, Mengling F
 
 # 🎖 Honors and Awards
 - *2022* SG Healthcare AI Datathon, Second Runner-up
-- Beihang University Excellent Scholarship, Second Prize (Academic Year 2020-2021)
-- Beihang University Excellent Scholarship, Second Prize (Academic Year 2019-2020)
+- Beihang University Excellent Scholarship (Academic Year 2020-2021)
+- Beihang University Excellent Scholarship (Academic Year 2019-2020)
 - The 31st Mathematics Competition for College Students in Beijing, Third Prize
 - The 12th National Mathematics Competition for College Students, Third Prize
 
