@@ -45,7 +45,7 @@ I am always open to collaborations. If you share similar interests, please feel 
 
 [EsurvFusion: An Evidential Multimodal Survival Fusion Model Based on Epistemic Random Fuzzy Sets](https://arxiv.org/abs/2412.01215)
 
-Ling Huang\*, **Yucheng Xing**\*, Qika Lin, Jia Duan, Su Ruan, Mengling Feng
+Ling Huang\*, **Yucheng Xing**\*, Qika Lin, Jinming Duan, Su Ruan, Mengling Feng
 
 **IEEE Transactions on Fuzzy Systems**, 2025 \| [**arXiv**](https://arxiv.org/abs/2412.01215) \| [**IEEE Xplore**](https://ieeexplore.ieee.org/abstract/document/11214415/)
 </div>
