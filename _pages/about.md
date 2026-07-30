@@ -18,6 +18,28 @@ I am always open to collaborations. If you share similar interests, please feel 
 
 \*: Equal Contribution
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2026</div><img src='images/ECCV.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Semantic-Anchored Evidential Fusion for Domain-Robust Whole-Slide Survival Analysis](https://arxiv.org/abs/2606.19966)
+
+**Yucheng Xing**, Ling Huang, Pei Liu, Jingying Ma, Jiaqing Xu, Kai He, Mengling Feng
+
+**ECCV**, 2026 \| [**arXiv**](https://arxiv.org/abs/2606.19966)
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MICCAI 2026</div><embed src='images/MICCAI.pdf' type="application/pdf" width="100%" height="260px" style="max-width:400px; box-shadow:3px 3px 6px #888; box-sizing:border-box;"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Evidential Fusion Network for Multimodal Survival Prediction under Missing Modalities](https://arxiv.org/abs/2606.20757)
+
+**Yucheng Xing**\*, Hailan Mo\*, Zi Wang, Ling Huang, Mengling Feng
+
+**MICCAI**, 2026 \| [**arXiv**](https://arxiv.org/abs/2606.20757)
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2026</div><img src='images/dpsurv.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
