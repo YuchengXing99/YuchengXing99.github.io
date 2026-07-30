@@ -89,4 +89,4 @@ Ling Huang\*, **Yucheng Xing**\*, Qika Lin, Jinming Duan, Su Ruan, Mengling Feng
 
 # 💬 Academic Services
 - Conference Reviewer: ICML, NeurIPS, MICCAI
-- Journal Reviewer: IEEE Transactions on Affective Computing, ACM Transactions on Intelligent Systems and Technology (TIST)
+- Journal Reviewer: IEEE Transactions on Affective Computing, ACM Transactions on Intelligent Systems and Technology (TIST), Information Fusion, Pattern Recognition
