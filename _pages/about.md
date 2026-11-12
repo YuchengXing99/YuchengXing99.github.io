@@ -18,6 +18,17 @@ I am always open to collaborations. If you share similar interests, please feel 
 
 \*: Equal Contribution
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2026</div><img src='images/mist.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Bridging the Modality Bottleneck in Pathology MIL through Molecularly Guided Feature Adaptation](https://arxiv.org/abs/2605.16392)
+
+**Yucheng Xing**, Pei Liu, Jingying Ma, Ruping Hong, Jiangdong Qiu, Tianyu Liu, Kai He, Ling Huang, Mengling Feng
+
+**NeurIPS**, 2026 \| [**arXiv**](https://arxiv.org/abs/2605.16392)
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2026</div><img src='images/dpsurv.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -25,7 +36,7 @@ I am always open to collaborations. If you share similar interests, please feel 
 
 **Yucheng Xing**, Ling Huang, Jingying Ma, Ruping Hong, Jiangdong Qiu, Pei Liu, Kai He, Huazhu Fu, Mengling Feng
 
-[**arXiv**](https://arxiv.org/abs/2510.00053)
+**ICML**, 2026 \| [**arXiv**](https://arxiv.org/abs/2510.00053)
 </div>
 </div>
 
@@ -66,8 +77,11 @@ Ling Huang\*, **Yucheng Xing**\*, Qika Lin, Jinming Duan, Su Ruan, Mengling Feng
 - **International Journal of Approximate Reasoning** [Evidential Time-to-Event Prediction with Calibrated Uncertainty Quantification](https://www.sciencedirect.com/science/article/pii/S0888613X25000441), Ling Huang, **Yucheng Xing**, Swapnil Mishra, Thierry Denœux, Mengling Feng, 2025
 - **BELIEF 2024** [An Evidential Time-to-Event Prediction Model Based on Gaussian Random Fuzzy Numbers](https://link.springer.com/chapter/10.1007/978-3-031-67977-3_6), Ling Huang, **Yucheng Xing**, Thierry Denœux, Mengling Feng, 2024
 - **CVPR 2026** [Sparse Task Vector Mixup with Hypernetworks for Efficient Knowledge Transfer in Whole-Slide Image Prognosis](https://openaccess.thecvf.com/content/CVPR2026/html/Liu_Sparse_Task_Vector_Mixup_with_Hypernetworks_for_Efficient_Knowledge_Transfer_CVPR_2026_paper.html), Pei Liu, Xiangxiang Zeng, Tengfei Ma, **Yucheng Xing**, Xuanbai Ren, Yiping Liu, 2026
-- Preprint [Bridging the Modality Bottleneck in Pathology MIL through Virtual Molecular Staining](https://arxiv.org/abs/2605.16392), **Yucheng Xing**, Pei Liu, Jingying Ma, Ruping Hong, Jiangdong Qiu, Tianyu Liu, Kai He, Ling Huang, Mengling Feng, 2026
+- **npj Artificial Intelligence** [LogicSleep: A Neurosymbolic-Guided Framework for Explainable and Personalized Sleep Staging](https://www.nature.com/articles/s44387-026-00132-z), Jingying Ma, Qika Lin, Feng Wu, **Yucheng Xing**, Ziyu Jia, Mengling Feng, 2026
+- **Communications Medicine** [A Longitudinal Cross-Sectional Study of Changes in Working Attitude among Primary Healthcare Workers across the Major COVID-19 Outbreaks in China](https://www.nature.com/articles/s43856-026-01738-9), Quan Wang, Yingliu Luo, Chao Gong, **Yucheng Xing**, Hailan Mo, Yumeng Lv, Yaqun Fu, Jiawei Zhang, Zheng Zhu, Runzhi Han, Yixin Qin, Shan Zhang, Bingqian Wang, Mengling Feng, Xia Wei, Jing Guo, Li Yang, 2026
+- **BELIEF 2026** [Uncertainty-Aware Deep Learning for Breast Cancer Detection in Mammograms with Breast Implants](https://doi.org/10.1007/978-3-032-41960-6), Junjie Huang, **Yucheng Xing**, Ling Huang, 2026
 - Preprint [SCOPE: Structured Prototype-Guided Adaptation for EEG Foundation Models with Limited Labels](https://arxiv.org/abs/2602.17251), Jingying Ma\*, Feng Wu\*, **Yucheng Xing**, Qika Lin, Tianyu Liu, Chenyu Liu, Ziyu Jia, Mengling Feng, 2026
+- Preprint [What Is Missing in Surgical Risk Stratification and Outcome Prediction: A Scoping Review of End-to-End Machine Learning Approaches](https://arxiv.org/abs/2607.29090), Yizhi Dong, Yuhe Ke, Hairil Rizal Abdullah, **Yucheng Xing**, Kevan Kai Bing Teo, Ling Huang, Mengling Feng, 2026
 
 # 🎖 Honors and Awards
 - *2022* SG Healthcare AI Datathon, Second Runner-up
@@ -83,6 +97,7 @@ Ling Huang\*, **Yucheng Xing**\*, Qika Lin, Jinming Duan, Su Ruan, Mengling Feng
 - *2018.09 - 2022.06*, B.S., Economics Statistics, School of Economics and Management, Beihang University, China
 
 # 💻 Experience
+- *2026.08 - now*, Algorithm Intern, Ant Health, Ant Group
 - *2021.07 - 2021.10*, Data Analyst Intern, Beijing ByteDance Technology Co., Ltd
 - *2021.01 - 2021.02*, Audit Department Intern, KPMG
 - *2020.10 - 2020.12*, Quantitative Financial Analyst Intern, SAS Software China
