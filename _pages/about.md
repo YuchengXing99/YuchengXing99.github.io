@@ -21,7 +21,7 @@ I am always open to collaborations. If you share similar interests, please feel 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2026</div><img src='images/mist.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Bridging the Modality Bottleneck in Pathology MIL through Molecularly Guided Feature Adaptation](https://arxiv.org/abs/2605.16392)
+[Bridging the Modality Bottleneck in Pathology MIL through Molecularly Guided Feature Adaptation](https://arxiv.org/abs/2605.16392) <a class="paper-code-link" href="https://github.com/YuchengXing99/MIST" target="_blank" rel="noopener noreferrer" aria-label="View MIST code on GitHub"><i class="fab fa-github" aria-hidden="true"></i> MIST</a>
 
 **Yucheng Xing**, Pei Liu, Jingying Ma, Ruping Hong, Jiangdong Qiu, Tianyu Liu, Kai He, Ling Huang, Mengling Feng
 
@@ -32,7 +32,7 @@ I am always open to collaborations. If you share similar interests, please feel 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2026</div><img src='images/dpsurv.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[DPsurv: Dual-Prototype Evidential Fusion for Uncertainty-Aware and Interpretable Whole-Slide Image Survival Prediction](https://arxiv.org/abs/2510.00053)
+[DPsurv: Dual-Prototype Evidential Fusion for Uncertainty-Aware and Interpretable Whole-Slide Image Survival Prediction](https://arxiv.org/abs/2510.00053) <a class="paper-code-link" href="https://github.com/YuchengXing99/DPsurv" target="_blank" rel="noopener noreferrer" aria-label="View DPsurv code on GitHub"><i class="fab fa-github" aria-hidden="true"></i> DPsurv</a>
 
 **Yucheng Xing**, Ling Huang, Jingying Ma, Ruping Hong, Jiangdong Qiu, Pei Liu, Kai He, Huazhu Fu, Mengling Feng
 
@@ -43,7 +43,7 @@ I am always open to collaborations. If you share similar interests, please feel 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2026</div><img src='images/ECCV.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Semantic-Anchored Evidential Fusion for Domain-Robust Whole-Slide Survival Analysis](https://arxiv.org/abs/2606.19966)
+[Semantic-Anchored Evidential Fusion for Domain-Robust Whole-Slide Survival Analysis](https://arxiv.org/abs/2606.19966) <a class="paper-code-link" href="https://github.com/YuchengXing99/SAEFS" target="_blank" rel="noopener noreferrer" aria-label="View SAEFS code on GitHub"><i class="fab fa-github" aria-hidden="true"></i> SAEFS</a>
 
 **Yucheng Xing**, Ling Huang, Pei Liu, Jingying Ma, Jiaqing Xu, Kai He, Mengling Feng
 
@@ -54,7 +54,7 @@ I am always open to collaborations. If you share similar interests, please feel 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TFS 2025</div><img src='images/esurvfusion.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[EsurvFusion: An Evidential Multimodal Survival Fusion Model Based on Epistemic Random Fuzzy Sets](https://arxiv.org/abs/2412.01215)
+[EsurvFusion: An Evidential Multimodal Survival Fusion Model Based on Epistemic Random Fuzzy Sets](https://arxiv.org/abs/2412.01215) <a class="paper-code-link" href="https://github.com/iWeisskohl/EsurvFusion_TFS" target="_blank" rel="noopener noreferrer" aria-label="View EsurvFusion code on GitHub"><i class="fab fa-github" aria-hidden="true"></i> EsurvFusion</a>
 
 Ling Huang\*, **Yucheng Xing**\*, Qika Lin, Jinming Duan, Su Ruan, Mengling Feng
 
@@ -65,7 +65,7 @@ Ling Huang\*, **Yucheng Xing**\*, Qika Lin, Jinming Duan, Su Ruan, Mengling Feng
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">MICCAI 2026</div><img src='images/MICCAI.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Evidential Fusion Network for Multimodal Survival Prediction under Missing Modalities](https://arxiv.org/abs/2606.20757)
+[Evidential Fusion Network for Multimodal Survival Prediction under Missing Modalities](https://arxiv.org/abs/2606.20757) <a class="paper-code-link" href="https://github.com/YuchengXing99/EMMS" target="_blank" rel="noopener noreferrer" aria-label="View EMMS code on GitHub"><i class="fab fa-github" aria-hidden="true"></i> EMMS</a>
 
 **Yucheng Xing**\*, Hailan Mo\*, Zi Wang, Ling Huang, Mengling Feng
 
